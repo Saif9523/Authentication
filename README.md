@@ -5,8 +5,7 @@
 # Screenshots
 
 - Dashboard Page
-
-![Dashboard_page](https://github.com/Saif9523/Authentication/assets/57210591/789fd9fe-a98f-43e6-9cb0-f69155422fd4)
+  ![Dashboard_page](https://github.com/Saif9523/Authentication/assets/57210591/789fd9fe-a98f-43e6-9cb0-f69155422fd4)
 
 - Login Page
   ![Login_page](https://github.com/Saif9523/Authentication/assets/57210591/e0b09574-29b0-4d3b-b5f5-e24474b532f7)
@@ -36,5 +35,5 @@
 </ul>
 
 # Installation
-Hosted Link: 
+Hosted Link: https://saif9523.github.io/Authentication/
 
